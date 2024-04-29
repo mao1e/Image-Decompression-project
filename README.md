@@ -5,7 +5,7 @@ I learnt this from reading Hands-On Machine Learning with Scikit-Learn, Keras, a
 
 The following is the presentation slides and below that is the research report
 
-[I'm a relative reference to a repository file](../LinAlg_project.pdf)
+[I'm a relative reference to a repository file](./LinAlg_project.pdf)
 <object data="LinAlg_project.pdf" width="1000" height="1000" type='LinAlg_project.pdf'/>
 <object data="LinAlg_project.pdf" width="1000" height="1000" type='application.pdf'/>
 
